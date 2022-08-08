@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **erik.oliveira5779@gmail.com**
 
+- 📚 Curriculo
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
