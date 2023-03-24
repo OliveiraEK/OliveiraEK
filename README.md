@@ -17,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiraek&show_icons=true&locale=en&layout=compact" alt="oliveiraek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveiraek&show_icons=true&locale=en" alt="oliveiraek" /></p>
+
+![Snake animation](https://github.com/OliveiraEK/OliveiraEK/blob/output/github-contribution-grid-snake.svg)
+
