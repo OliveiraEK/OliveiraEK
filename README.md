@@ -11,9 +11,7 @@
   
 <h3 align="left">Connect with me:</h3>
 
-  <p align="right">
-    <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" width="200">
-  </p> 
+<img src="caminho/do/seu/gif.gif" alt="descrição do gif" style="float: right; width: 200px;">
 
 <h3 align="left">Languages and Tools:</h3>
 
