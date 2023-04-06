@@ -11,9 +11,10 @@
 <p align="left">
 </p>
 
-<div style="display:flex; justify-content:flex-end;">
-  <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" alt="gif" style="width:250px; height:250px;">
-</div>
+<p align="right">
+  <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" width="200">
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
