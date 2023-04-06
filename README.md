@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-    <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" align="right" width="200">
+    <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif"  width="200" align="right">
  
 </p>
 
