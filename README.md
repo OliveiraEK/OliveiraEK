@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <p align="right">
-    <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" width="200">
-  </p>
+  
+    <img src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif" align="right" width="200">
+ 
 </p>
 
 
