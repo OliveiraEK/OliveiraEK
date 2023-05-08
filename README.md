@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Oliveira</h1>
 <h3 align="center">I'm a dev student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, C#, MySQL**
+- 🌱 I’m currently learning **JavaScript, Angular, ReactJS**
 
 - 📫 How to reach me **erik.oliveira5779@gmail.com**
 
