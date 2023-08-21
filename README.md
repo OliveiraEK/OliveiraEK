@@ -9,7 +9,7 @@
 <div>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIxNmE4MWY3OTcwNmU0YWJhN2ZkOWVkYTIyNzFkNzZlYTJiZGNhYSZjdD1n/odQ5A4pdaDU8E/giphy.gif" alt="descrição do gif" style="margin-left:700px; float: right; width: 200px;">
   
-<h3 align="left">Connect with me:</h3>
+
 
 
 
